@@ -122,6 +122,7 @@ Biosphere 2 would be an ideal location to test how well the changes scientists m
 
 <figcaption>Biosphere 2 in Tucson, Arizona</figcaption>
 <img src="https://www.visitarizona.com/imager/files_idss_com/C375/AccountFiles/x4fszh4nf52dekzkmx68_70e0b117ab6f15d516450a3495868467.jpg" alt="description" width="500" />
+
 [Visit Arizona](https://www.visitarizona.com/directory/biosphere-2/)
 
 
