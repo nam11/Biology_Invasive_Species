@@ -2,60 +2,63 @@
 ###### By: Natalie Mendoza
 ###### Date: October 16th, 2020
 
-### Abstract:
+### Introduction:
  
-The USDA defines invasive species as species that is not native to the area and whose introduction will likely cause harm to the environment. Invasive species can be a variety of types of life, including plants, animals, fungi, and bacteria.
-
-An example of invasive species in Arizona is Buffelgrass. Buffelgrass has become an invasive species in the Sonoran desert. The addition of buffelgrass to the Sonoran desert has caused an increase in wildfires.
-
-When lightning strikes or human-created fires start, the additional "fuel" of the buffelgrass has worsened and spread the fires farther, burning plants native to the Sonoran desert with it. The wildfires are specifically risky for plants that grow slowly, shrubs and bushes, and animals that live in or near plants affected by the buffelgrass wildfires.
-
-A potential solution would be to bioengineer a heat resistance gene into the buffelgrass. The negative impact that the buffelgrass has on the environment and ecosystem results from the fires, not its presence, so if scientists could prevent the wildfires from affecting the buffelgrass as severely and becoming out of control, then the buffelgrass would not be an invasive species, just a non-native species.
-
-
+Invasive species as non-native species to the environment and whose introduction will likely cause harm to the environment. An example of invasive species in Arizona is Buffelgrass. Buffelgrass has is an example of an invasive species in the Sonoran desert. The addition of buffelgrass to the Sonoran desert has caused an increase in wildfires. When lightning strikes or human-created fires start, the additional "fuel" of the buffelgrass has caused fires to spread farther than they used to. The bigger fires burn plants native to the Sonoran desert. The buffelgrass-fuled wildfires are specifically risky for plants that grow slowly like the shrubs and bushe that live in the Sonoran desert. Buffelgrass is native to Africa, the Middle East, and Asia.
 
 ## 1. Buffelgrass
 
-Invasive species are non-native species. In the case of Arizona's buffelgrass, it is a plant species that is invasive; however, plants are not the only type of invasive species. First, let's talk about buffelgrass as a species.
+Buffelgrass is an invasive plant species.
 
 ### 1.1 Buffelgrass: Background
 
-Buffelgrass is native to African, Middle Eastern, and Asian countries. The U.S. Soil Conservation Service brought buffelgrass to the Southwest deserts in the 1970s and 1980s. It was originally brought to the States in hopes it'd serve as another food source for cows and to control and slow erosion.
+Buffelgrass is native to African, Middle Eastern, and Asian countries. The U.S. Soil Conservation Service brought buffelgrass to the Southwest deserts in the 1970s and 1980s. It was originally brought to the States in hopes it'd serve as another food source for cows and to control and slow erosion. Scientists initially planted buffelgrass for it's drought tolerance and high seed production. Unfortunately, the buffelgrass escaped from the original enclosures it was planted in, and has spread across the Southwestern desert. 
 
 Buffelgrass is a light green colored bush that clusters densely together. Buffelgrass ranges from a couple inches to three or four feet tall. The leaves of buffelgrass are longer and wider than typical native desert plants. Those leaves turn a reddish purplish color when under too cold temperatures. They have deep purple flowers on long, skinny stalks. Their fluffy seeds are carried by the wind and spread quickly. Buffelgrass leaves are also quite dry and flammable. For this reason, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>.
 
-![credits to NPS](https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg?maxwidth=650&autorotate=false)![credits to USDA](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYD6WW7U10HL8RFk66Iv5YRy8yOMXIUhLHtg&usqp=CAU)![credits to NPS](https://www.nps.gov/orpi/learn/nature/images/body_buffel_whole.jpg?maxwidth=650&autorotate=false)
+<figcaption>Buffelgrass stalk with flower</figcaption>
+<img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg" height="350" />
+
+<figcaption>Buffelgrass field with flowers</figcaption>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYD6WW7U10HL8RFk66Iv5YRy8yOMXIUhLHtg&usqp=CAU" width="500" />
+
+<figcaption>Buffelgrass plant</figcaption>
+<img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_whole.jpg" width="500" />
 
 
 ## 2. The Problem
 
-Scientists initially planted buffelgrass for it's drought tolerance and high seed production. Unfortunately, the buffelgrass escaped from the original enclosures it was planted in, and has spread across the Southwestern desert. Another trait of buffelgrass was it's high flammability. The buffelgrass acted as a super-fuel for wildfires, which caused the loss of habitat and species diversity.
+The problem with buffelgrass is it's high flammability. The buffelgrass acts as a super-fuel for wildfires, which causes the loss of habitat and species diversity. The buffelgrass is not harming the ecosystem with the exception of the spreading of wildfires, so it is unnecessary to exterminate it from the environment if there is an alternative route that eliminates the threat of wildfires without harming the plant.
 
-The plants in the deserts buffelgrass is native to, has adapted to hotter fires, so they are not affected as severely. However, it is not possible to genetically engineer all of the native Southwestern plants to have a higher tolerance for heat due to the sheer amount of time it would take to re-engineer a whole ecosystem, so by increasing the buffelgrass's resistance to high temperatures, buffelgrass will not catch fire or spread wildfires as often or quickly.
+The plants in the deserts that buffelgrass is native to, has adapted to hotter fires, so they are not affected as severely. However, it is not possible to genetically engineer all of the native Southwestern plants to have a higher tolerance for heat due to the sheer amount of time it would take to re-engineer a whole ecosystem, so by increasing the buffelgrass's resistance to high temperatures, buffelgrass will not catch fire or spread wildfires as often or quickly.
 
-
-![https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg](https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg)
+<img src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg" alt="description" width="500" />
+<figcaption>A field of buffelgrass ablaze</figcaption>
 
 ### 2.1 Affected Native Species
 
 Buffelgrass primarily affects native birds, desert tortoises, jaguarundis, ocelots, tarahumara frogs, walker's manioc, zapata bladderpod, and border ayenia, creosote, saltbush, and bursage. Creosote, saltbush, and bursage are all native shrubs that are negatively impacted by buffelgrass wildfires. Native animals impacted by buffelgrass all suffer habitat loss from the buffelgrass wildfires.
 
-![https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Ocelot.jpg?crop=0,93,1600,880&wid=4000&hei=2200&scl=0.4](https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Ocelot.jpg?crop=0,93,1600,880&wid=4000&hei=2200&scl=0.4)
-![https://www.nps.gov/jotr/learn/nature/images/15490143732_0f250215cb_k.jpg](https://www.nps.gov/jotr/learn/nature/images/15490143732_0f250215cb_k.jpg)
-![https://cals.arizona.edu/yavapai/graphics/Larrea_tridentata.jpg](https://cals.arizona.edu/yavapai/graphics/Larrea_tridentata.jpg)
+<figcaption>Ocelot</figcaption>
+<img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Ocelot.jpg" alt="description" width="500" />
+
+<figcaption>Desert Tortoise</figcaption>
+<img src="https://www.nps.gov/jotr/learn/nature/images/15490143732_0f250215cb_k.jpg" alt="description" width="500" />
+
+<figcaption>Creosote bush</figcaption>
+<img src="https://cals.arizona.edu/yavapai/graphics/Larrea_tridentata.jpg" alt="description" width="500" />
+
 
 ## 3. Solution?
 
-The buffelgrass is not harming the ecosystem with the exception of the spreading of wildfires, so it is unnecessary to exterminate it from the environment if there is an alternative route that eliminates the threat of wildfires without harming the plant.
-
 Plants get their traits through Deoxyribose Nucleic Acid (DNA), and there is likely a gene in the buffelgrass genome that controls the flammability of the plant. If scientists were able to locate and edit the buffelgrass genes, such that the plants are less flammable and more resistant to heat, the invasiveness to the buffelgrass would be minimized without having to take drastic measures to say remove all the buffelgrass, (which is unfeasible given how widespread it has grown).
 
-
-![https://images.newscientist.com/wp-content/uploads/2012/11/dn22545-1_300.jpg](https://images.newscientist.com/wp-content/uploads/2012/11/dn22545-1_300.jpg)
+<figcaption>A strand of DNA under a microscope</figcaption>
+<img src="https://images.newscientist.com/wp-content/uploads/2012/11/dn22545-1_300.jpg" alt="description" width="500" />
 
 ### 3.1 Bioengineering Fire Resistance Genes
 
-E. Coli, which has multiple heat resistant strains, was researched in a study attempting to isolate the genes that determine whether the E. Coli strain was heat resistant or heat sensitive. The researchers were able to identify the LHR genes were key in the heat resistance.
+E. Coli has multiple heat resistant strains. E. Coli was researched in a study attempting to isolate the genes that determine whether the E. Coli strain was heat resistant or heat sensitive. The researchers were able to identify the LHR genes were key in the heat resistance.
 
 Furthermore, early research suggests that fire resistance genes could be located in a variety of plants, if further research is conducted.
 
@@ -65,8 +68,8 @@ CRISPR is a gene editing tool that can alter the genes of a living organism. CRI
 
 Genome editing with CRISPR involves many tools. DNA is a double stranded helix, so CRISPR can work in several ways to alter the genetic sequence.
 
-
-![https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/CRISPR%20Fig3.jpg?itok=URYe0X7l](https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/CRISPR%20Fig3.jpg?itok=URYe0X7l)
+<figcaption>Up close image of CRISPR altering the DNA inside a cell</figcaption>
+<img src="https://camo.githubusercontent.com/2a4b50b92e153e0e9793ceba47b3529ee9478531/68747470733a2f2f7777772e736369656e63656d61672e6f72672f73697465732f64656661756c742f66696c65732f7374796c65732f61727469636c655f6d61696e5f6c617267652f7075626c69632f435249535052253230466967332e6a70673f69746f6b3d555259653058376c" alt="description" width="500" />
 
 #### 3.2.1 Base Editing
 
@@ -74,8 +77,8 @@ Base editing is a relatively new advancement of CRISPR. Bases are pairs of nucle
 
 In base editing, there are two gene editors: the cytosine base editor and the adenine base editor. The cytosine base editor can change a nucleotide pair from C-G to A-T. The adenine base editor can alter a nucleotide pair of A-T to a C-G nucleotide pair. 
 
-
-![https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/1027NID_BaseEditing_Final_Drupal700p.png?itok=rGgfBct7](https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/1027NID_BaseEditing_Final_Drupal700p.png?itok=rGgfBct7)
+<figcaption>The process of base editing</figcaption>
+<img src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/1027NID_BaseEditing_Final_Drupal700p.png?itok=rGgfBct7" alt="description" width="500" />
 
 #### 3.2.2 Splicing, Joining, and Targeting
 
@@ -83,16 +86,18 @@ Another feature of CRISPR is splicing and joining strands of DNA. This is where 
 
 Targeting, on the other hand, is a technique used in CRISPR in which CRISPR specifically targets and pinpoints the genes and nucleotides that need alteration. CRISPR technology has become increasingly advanced in precision in targeting genes to edit in a genome. Targeting will aid scientists using CRISPR on buffelgrass in locating the part of the buffelgrass' genome that needs to be edited.
 
-
-![https://cdn.vox-cdn.com/thumbor/NLo_nR6KiOlkf_zWfxwYy1-3t2c=/0x0:1886x1861/1320x0/filters:focal(0x0:1886x1861):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7724917/Artboard_1.jpg](https://cdn.vox-cdn.com/thumbor/NLo_nR6KiOlkf_zWfxwYy1-3t2c=/0x0:1886x1861/1320x0/filters:focal(0x0:1886x1861):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7724917/Artboard_1.jpg)
+<figcaption>The process of removing and adding genes to a strand of DNA</figcaption>
+<img src="https://cdn.vox-cdn.com/thumbor/NLo_nR6KiOlkf_zWfxwYy1-3t2c=/0x0:1886x1861/1320x0/filters:focal(0x0:1886x1861):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7724917/Artboard_1.jpg" alt="description" width="500" />
 
 #### 3.2.3 Gene Silencing
 
-Furthermore, CRISPR can silence genes. To silence genes, is preventing a trait controlled by a particular gene to not be represented in the organism. The gene is dormant/inactive. Targeting specific genes can help with more efficient gene silencing. Gene silencing could be used in the buffelgrass situation to silence genes that cause the buffelgrass to be more flammable or more sensitive to heat.
+Furthermore, CRISPR can silence genes. Gene silencing is preventing a trait controlled by a particular gene to not be represented in the organism. Gene silencing can also be refered to as gene knockdown. The gene is dormant/inactive. Targeting specific genes can help with more efficient gene silencing. Gene silencing could be used in the buffelgrass situation to silence genes that cause the buffelgrass to be more flammable or more sensitive to heat.
 
-![https://img.favpng.com/9/22/10/crispr-interference-cas9-genome-editing-gene-png-favpng-iZhwhbM9wTTsxfYGbWRq3stet.jpg](https://img.favpng.com/9/22/10/crispr-interference-cas9-genome-editing-gene-png-favpng-iZhwhbM9wTTsxfYGbWRq3stet.jpg)
+<figcaption>The process of gene knockdown/gene silencing</figcaption>
+<img src="https://ars.els-cdn.com/content/image/1-s2.0-S1359644618305245-gr1.jpg" width="500" />
 
 ### 3.3 Testing
+
 That leaves one last challenge for scientists to tackle: how to ensure that the newly engineered buffelgrass does not have negative unexpected consequences. For the editing of the buffelgrass genome to not lead to worse or unpredicted problems without an undo button, there needs to be a way to test the buffelgrass in a simulated ecosystem.
 
 #### 3.3.1 Biosphere 2
@@ -109,49 +114,50 @@ A few things can be concluded from the things I pointed out:
 
 This would make Biosphere 2 an ideal solution for testing how well the changes scientists end up making to the buffelgrass genome without harming the environment in the process.
 
+<figcaption>Biosphere 2 in Tuscon, Arizona</figcaption>
+<img src="https://www.visitarizona.com/imager/files_idss_com/C375/AccountFiles/x4fszh4nf52dekzkmx68_70e0b117ab6f15d516450a3495868467.jpg" alt="description" width="500" />
 
-![https://www.visitarizona.com/imager/files_idss_com/C375/AccountFiles/x4fszh4nf52dekzkmx68_70e0b117ab6f15d516450a3495868467.jpg](https://www.visitarizona.com/imager/files_idss_com/C375/AccountFiles/x4fszh4nf52dekzkmx68_70e0b117ab6f15d516450a3495868467.jpg)
 
 ### Conclusion:
 
 Invasive species are species that are not native to their current environment and will likely cause harm to the environment. Invasive species can be any life form. An example of invasive species in Arizona is Buffelgrass. Buffelgrass is native to Africa, the Middle East, and Asia, but it has become an invasive species in the Sonoran desert. The buffelgrass has resulted in more severe wildfires. These wildfires have burned native plants and caused habitat loss for native animals. CRISPR gene editing to bioengineer a heat resistance gene into the buffelgrass genome. Then, the buffelgrass would not be an invasive species, just a non-native species.
 
-____________________________________________________________________________________________________________________________________________
+<hr>
 
 ## Works Cited:
 
-Subcommittee of the Invasive Species Advisory Committee. (2006). What are Invasive Species?. *United States Department of      
-................Agriculture*. doi:     
-................[https://www.invasivespeciesinfo.gov/what-are-invasive-species](https://www.invasivespeciesinfo.gov/what-are-invasive-species)
+Subcommittee of the Invasive Species Advisory Committee. (2006). What are Invasive Species?.*United States Department of*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Agriculture*. doi:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.invasivespeciesinfo.gov/what-are-invasive-species
 
-Arizona Invasive Species Advisory Council. (2008). Arizona Invasive Species Management Plan. *Arizona Invasive Species      
-.................Advisory Council*. doi:     
-.................[https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf](https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf)
+Arizona Invasive Species Advisory Council. (2008). Arizona Invasive Species Management Plan. *Arizona Invasive Species*      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Advisory Council*. doi:     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf](https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf)
 
 Mercer, R. G., Zheng, J., Garcia-Hernandez, R., Ruan, L., Gänzle, M. G., & McMullen L. M. (2015). Genetic determinants          
-................of heat resistance in Escherichia coli. *Front Microbial*. doi:     
-................[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4563881/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4563881/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of heat resistance in Escherichia coli. *Front Microbial*. doi:     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4563881/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4563881/)
 
 Porterfield, A. (2018). Using gene editing to control forest fires? It could be a reality if anti-biotechnology activists         
-................don’t block it. *Genetic Literacy Project*. doi:          
-................[https://geneticliteracyproject.org/2018/10/23/](https://geneticliteracyproject.org/2018/10/23/using-gene-editing-to-control-forest-fires-it-could-be-a-reality-if-anti-biotechnology-activists-dont-block-it/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;don’t block it. *Genetic Literacy Project*. doi:          
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://geneticliteracyproject.org/2018/10/23/](https://geneticliteracyproject.org/2018/10/23/using-gene-editing-to-control-forest-fires-it-could-be-a-reality-if-anti-biotechnology-activists-dont-block-it/)
 
-Molla, K. A., & Yang, Y. (2019). CRISPR/Cas-mediated base editing: Technical considerations and practical applications. *Trends           
-...............in Biotechnology, 37(10), 1121-1142*. doi:               
-...............[http://dx.doi.org.ezproxy1.lib.asu.edu/10.1016/j.tibtech.2019.03.008](http://dx.doi.org.ezproxy1.lib.asu.edu/10.1016/j.tibtech.2019.03.008)
+Molla, K. A., & Yang, Y. (2019). CRISPR/Cas-mediated base editing: Technical considerations and practical applications. *Trends*           
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*in Biotechnology, 37(10), 1121-1142*. doi:               
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[http://dx.doi.org.ezproxy1.lib.asu.edu/10.1016/j.tibtech.2019.03.008](http://dx.doi.org.ezproxy1.lib.asu.edu/10.1016/j.tibtech.2019.03.008)
 
 Bischoff, N., Wimberger, S., Maresca, M., & Brakebusch, C. (2020). Improving precise CRISPR genome editing by small      
-...............molecules: Is there a magic potion? *Cells, 9(5), 1318*. doi:     
-...............[http://dx.doi.org.ezproxy1.lib.asu.edu/10.3390/cells9051318](http://dx.doi.org.ezproxy1.lib.asu.edu/10.3390/cells9051318)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; molecules: Is there a magic potion? *Cells, 9(5), 1318*. doi:     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[http://dx.doi.org.ezproxy1.lib.asu.edu/10.3390/cells9051318](http://dx.doi.org.ezproxy1.lib.asu.edu/10.3390/cells9051318)
 
 National Park Service. (2019). Buffelgrass. *National Park Service*. doi:     
-...............[https://www.nps.gov/sagu/learn/nature/buffelgrass.htm](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.nps.gov/sagu/learn/nature/buffelgrass.htm](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
 
 National Park Service. (2018). Invasive Plant Species. *National Park Service*. doi:     
-...............[https://www.nps.gov/orpi/learn/nature/invasive-plant-species.htm](https://www.nps.gov/orpi/learn/nature/invasive-plant-species.htm)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.nps.gov/orpi/learn/nature/invasive-plant-species.htm](https://www.nps.gov/orpi/learn/nature/invasive-plant-species.htm)
 
 Hauser, A. S. (2008). Pennisetum ciliare. *Fire Effects Information System*. doi:      
-...............[https://www.fs.fed.us/database/feis/plants/graminoid/pencil/all.html#17](https://www.fs.fed.us/database/feis/plants/graminoid/pencil/all.html#17)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://www.fs.fed.us/database/feis/plants/graminoid/pencil/all.html#17](https://www.fs.fed.us/database/feis/plants/graminoid/pencil/all.html#17)
 
 ## Image Credits:
 1.1 Rightmost Image - [National Park Service](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
@@ -176,6 +182,6 @@ Hauser, A. S. (2008). Pennisetum ciliare. *Fire Effects Information System*. doi
 
 3.2.2 Image - [Vox](https://cdn.vox-cdn.com/thumbor/NLo_nR6KiOlkf_zWfxwYy1-3t2c=/0x0:1886x1861/1320x0/filters:focal(0x0:1886x1861):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7724917/Artboard_1.jpg)
 
-3.2.3 Image - [FavPNG](https://favpng.com/png_view/programmed-cell-death-protein-1-crispr-interference-cas9-genome-editing-gene-png/YsxpwhZe)
+3.2.3 Image - [ScienceDirect](https://ars.els-cdn.com/content/image/1-s2.0-S1359644618305245-gr1.jpg)
 
 3.3.1 Image - [Visit Arizona](https://www.visitarizona.com/directory/biosphere-2/)
