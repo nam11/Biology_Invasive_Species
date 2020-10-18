@@ -2,9 +2,9 @@
 ###### By: Natalie Mendoza
 ###### Date: October 16th, 2020
 
-### Introduction:
+### Introduction
  
-Invasive species as non-native species to the environment and whose introduction will likely cause harm to the environment. An example of invasive species in Arizona is Buffelgrass. Buffelgrass has is an example of an invasive species in the Sonoran desert. The addition of buffelgrass to the Sonoran desert has caused an increase in wildfires. When lightning strikes or human-created fires start, the additional "fuel" of the buffelgrass has caused fires to spread farther than they used to. The bigger fires burn plants native to the Sonoran desert. The buffelgrass-fuled wildfires are specifically risky for plants that grow slowly like the shrubs and bushe that live in the Sonoran desert. Buffelgrass is native to Africa, the Middle East, and Asia.
+Native species are plants and animals that evolved as a part of their local ecosystem. Non-native species are plants or animals that humans introduce to a foriegn environment and thrive there. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of invasive species in the Sonoran desert is Buffelgrass.
 
 ## 1. Buffelgrass
 
@@ -12,9 +12,9 @@ Buffelgrass is an invasive plant species.
 
 ### 1.1 Buffelgrass: Background
 
-Buffelgrass is native to African, Middle Eastern, and Asian countries. The U.S. Soil Conservation Service brought buffelgrass to the Southwest deserts in the 1970s and 1980s. It was originally brought to the States in hopes it'd serve as another food source for cows and to control and slow erosion. Scientists initially planted buffelgrass for it's drought tolerance and high seed production. Unfortunately, the buffelgrass escaped from the original enclosures it was planted in, and has spread across the Southwestern desert. 
+Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. Soil Conservation Service brought buffelgrass to the Southwest deserts in the 1970s and 1980s. Buffelgrass was originally brought to the States with the hope that it would serve as another food source for cows and to manage erosion. Scientists chose buffelgrass because of its drought tolerance and high seed production. The buffelgrass escaped from the original enclosures it was planted in and spread across the Sonaran desert. 
 
-Buffelgrass is a light green colored bush that clusters densely together. Buffelgrass ranges from a couple inches to three or four feet tall. The leaves of buffelgrass are longer and wider than typical native desert plants. Those leaves turn a reddish purplish color when under too cold temperatures. They have deep purple flowers on long, skinny stalks. Their fluffy seeds are carried by the wind and spread quickly. Buffelgrass leaves are also quite dry and flammable. For this reason, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>.
+Buffelgrass is a light green colored bush. Deep purple flowers are on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and spread quickly. Buffelgrass ranges from a couple inches to three or four feet tall. Buffelgrass clusters densely around other buffelgrass plants. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. For this reason, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>.
 
 <figcaption>Buffelgrass stalk with flower</figcaption>
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg" height="350" />
@@ -28,16 +28,18 @@ Buffelgrass is a light green colored bush that clusters densely together. Buffel
 
 ## 2. The Problem
 
-The problem with buffelgrass is it's high flammability. The buffelgrass acts as a super-fuel for wildfires, which causes the loss of habitat and species diversity. The buffelgrass is not harming the ecosystem with the exception of the spreading of wildfires, so it is unnecessary to exterminate it from the environment if there is an alternative route that eliminates the threat of wildfires without harming the plant.
+The problem with buffelgrass is its high flammability. Buffelgrass acts as a super-fuel for wildfires. The buffelgrass wildfires cause a decline in the diversity of native plants. This also results in habitat loss for native animals.
 
-The plants in the deserts that buffelgrass is native to, has adapted to hotter fires, so they are not affected as severely. However, it is not possible to genetically engineer all of the native Southwestern plants to have a higher tolerance for heat due to the sheer amount of time it would take to re-engineer a whole ecosystem, so by increasing the buffelgrass's resistance to high temperatures, buffelgrass will not catch fire or spread wildfires as often or quickly.
+The addition of buffelgrass to the Sonoran desert has not caused an increase in wildfires, but buffelgrass worsens fires that start with a lightning strike or are man-made. The additional "fuel" has caused fires to burn hotter and spread farther than before buffelgrass was introduced to the Sonaran desert. The bigger and hotter fires burn plants native to the Sonoran desert. The buffelgrass-fueled wildfires are specifically risky for plants that grow slowly, like cacti, or are easy to alight, like bushes.
+
+The plants that live in deserts that buffelgrass is native to, have evolved to withstand hotter fires and are consequently affected by buffelgrass wildfires less severely. 
 
 <img src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg" alt="description" width="500" />
 <figcaption>A field of buffelgrass ablaze</figcaption>
 
 ### 2.1 Affected Native Species
 
-Buffelgrass primarily affects native birds, desert tortoises, jaguarundis, ocelots, tarahumara frogs, walker's manioc, zapata bladderpod, and border ayenia, creosote, saltbush, and bursage. Creosote, saltbush, and bursage are all native shrubs that are negatively impacted by buffelgrass wildfires. Native animals impacted by buffelgrass all suffer habitat loss from the buffelgrass wildfires.
+Buffelgrass primarily affects shrub-like plants like creosote, saltbush, and busage. The loss of native plants results in habitat loss for native birds, desert tortoises, jaguarundis, ocelots, tarahumara frogs, walker's maniocs, zapata bladderpods, and border ayenias.
 
 <figcaption>Ocelot</figcaption>
 <img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Ocelot.jpg" alt="description" width="500" />
@@ -51,7 +53,9 @@ Buffelgrass primarily affects native birds, desert tortoises, jaguarundis, ocelo
 
 ## 3. Solution?
 
-Plants get their traits through Deoxyribose Nucleic Acid (DNA), and there is likely a gene in the buffelgrass genome that controls the flammability of the plant. If scientists were able to locate and edit the buffelgrass genes, such that the plants are less flammable and more resistant to heat, the invasiveness to the buffelgrass would be minimized without having to take drastic measures to say remove all the buffelgrass, (which is unfeasible given how widespread it has grown).
+It is unnecessary to remove all of the buffelgrass from the Sonoran desert because the buffelgrass is not harming the ecosystem aside from spreading hotter wildfires. Additionally, the buffelgrass has become so widespread it is a part of the ecosystem for all intensive purposes. Since it is impossible to genetically engineer all of the native Southwestern plants to have a higher tolerance for heat due to the sheer amount of time it would take to re-engineer a whole ecosystem, increasing the buffelgrass's resistance to high temperatures will cause the buffelgrass to not catch fire or spread wildfires as often or quickly. Additionally, once the re-engineered bufflegrass is released into the environment, it will be more likely to survive than the buffelgrass that does not have the genetic alteration. The heat resistant buffelgrass is also more likely to survive than the non heat resistant buffelgrass, so it'll outcompete the more flammable buffelgrass.
+
+Plants inherit their traits through Deoxyribose Nucleic Acid (DNA). DNA encodes all of the characteristics in an organism into genes. Genes are pairs of nitrogonous bases: adenine (A), guanine (G), thymine (T), and cytosine (C). All of the gene pairs together make up a genome. There is likely a gene in the buffelgrass genome which controls the flammability and heat resistance of buffelgrass plants. If scientists are able to locate and edit the buffelgrass genome so that the plants are less flammable and more resistant to heat, buffelgrass would only be a non-native species and not an invasive speces.
 
 <figcaption>A strand of DNA under a microscope</figcaption>
 <img src="https://images.newscientist.com/wp-content/uploads/2012/11/dn22545-1_300.jpg" alt="description" width="500" />
@@ -64,55 +68,53 @@ Furthermore, early research suggests that fire resistance genes could be located
 
 ### 3.2 CRISPR
 
-CRISPR is a gene editing tool that can alter the genes of a living organism. CRISPR is still in the process of development and fine tuning; however, CRISPR has made significant scientific advancements and progress. In this section, what CRISPR can and has done will be discussed, and from there, one could come to their own conclusion on whether CRISPR would be able to be used to alter the genome of buffelgrass to make the buffelgrass more fire-resistant.
+CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats. In short, CRISPR is a gene editing tool. CRISPR is still being developed and fine tunned; however, CRISPR has made significant scientific advancements and progress. It would be possible for scientists to use CRISPR to alter the genome of buffelgrass to make the buffelgrass more fire-resistant.
 
-Genome editing with CRISPR involves many tools. DNA is a double stranded helix, so CRISPR can work in several ways to alter the genetic sequence.
+There are multiple ways for CRISPR to edit an organism's DNA.
 
-<figcaption>Up close image of CRISPR altering the DNA inside a cell</figcaption>
+<figcaption>Up close image of CRISPR altering the DNA inside of a cell</figcaption>
 <img src="https://camo.githubusercontent.com/2a4b50b92e153e0e9793ceba47b3529ee9478531/68747470733a2f2f7777772e736369656e63656d61672e6f72672f73697465732f64656661756c742f66696c65732f7374796c65732f61727469636c655f6d61696e5f6c617267652f7075626c69632f435249535052253230466967332e6a70673f69746f6b3d555259653058376c" alt="description" width="500" />
 
 #### 3.2.1 Base Editing
 
-Base editing is a relatively new advancement of CRISPR. Bases are pairs of nucleotides that serve as a "backbone" or a structural support for DNA. There are four types of nucleotides in DNA: adenine, cytosine, thymine, and guanine. Adenine and thymine pair together, as do cytosine and guanine. The sequence of the base pairs and whether there is an A-T or a C-G pair, creates a strand of DNA and determines what genes each section of DNA is made up of. Changing the sequence and the nucleotide will alter the genetic instructions that a cell receives, and carries out.
+Base editing is a relatively new advancement of CRISPR. DNA is a double stranded helix. There is a base on each side that will pair with a different base on the other side. Adenine and thymine pair together; and cytosine and guanine pair together. The sequence of the base pairs and whether there is an A-T or a C-G pair in a specific location determines what genes each section of DNA is made up of. Changing the sequence and the nucleotide will alter the genetic instructions that a cell receives and carries out.
 
-In base editing, there are two gene editors: the cytosine base editor and the adenine base editor. The cytosine base editor can change a nucleotide pair from C-G to A-T. The adenine base editor can alter a nucleotide pair of A-T to a C-G nucleotide pair. 
+In base editing, there are two gene editors: the cytosine base editor and the adenine base editor. The cytosine base editor can change a nucleotide pair from C-G to A-T. The adenine base editor can alter a nucleotide pair of A-T to a C-G nucleotide pair.
 
 <figcaption>The process of base editing</figcaption>
 <img src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/1027NID_BaseEditing_Final_Drupal700p.png?itok=rGgfBct7" alt="description" width="500" />
 
 #### 3.2.2 Splicing, Joining, and Targeting
 
-Another feature of CRISPR is splicing and joining strands of DNA. This is where CRISPR can break a DNA strand in half or mend two broken strands of DNA back together. Splicing and joining usually occurs in tandem. Scientists can splice a sequence of DNA in half, add an additional codon in between that will do something, and repair the broken DNA back together with the new genes in between. In the case of altering the buffelgrass DNA to become more fire-resistant, scientists could use splicing and joining to add and/or delete genes that would make the buffelgrass more resistant to fire and temperatures.
+Another feature of CRISPR is splicing and joining strands of DNA. This is where CRISPR can break a DNA strand in half or mend two broken strands of DNA back together. Splicing and joining usually occurs in tandem. Scientists can splice a sequence of DNA in half, add additional genes in between, and then repair the broken DNA back together. In the case of altering the buffelgrass DNA to become more fire-resistant, scientists could use splicing and joining to add and/or delete genes that would make the buffelgrass more resistant to fire and temperatures.
 
-Targeting, on the other hand, is a technique used in CRISPR in which CRISPR specifically targets and pinpoints the genes and nucleotides that need alteration. CRISPR technology has become increasingly advanced in precision in targeting genes to edit in a genome. Targeting will aid scientists using CRISPR on buffelgrass in locating the part of the buffelgrass' genome that needs to be edited.
+Targeting is a technique used in CRISPR that pinpoints and targets specific the genes and nucleotides. CRISPR technology has become increasingly advanced in precision in targeting genes to edit in a genome. Targeting will aid scientists using CRISPR on buffelgrass in locating the part of the buffelgrass' genome that needs to be edited.
 
 <figcaption>The process of removing and adding genes to a strand of DNA</figcaption>
 <img src="https://cdn.vox-cdn.com/thumbor/NLo_nR6KiOlkf_zWfxwYy1-3t2c=/0x0:1886x1861/1320x0/filters:focal(0x0:1886x1861):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7724917/Artboard_1.jpg" alt="description" width="500" />
 
 #### 3.2.3 Gene Silencing
 
-Furthermore, CRISPR can silence genes. Gene silencing is preventing a trait controlled by a particular gene to not be represented in the organism. Gene silencing can also be refered to as gene knockdown. The gene is dormant/inactive. Targeting specific genes can help with more efficient gene silencing. Gene silencing could be used in the buffelgrass situation to silence genes that cause the buffelgrass to be more flammable or more sensitive to heat.
+Furthermore, CRISPR can [i]silence[/i] genes. Gene silencing is supressing a specific trait controlled by a particular gene. Gene silencing is also called gene knockdown. The gene will not be read by the cell, so the cell will not make the proteins that would express those traits in the organism. Targeting specific genes can also help with more efficient gene silencing. Gene silencing could be used in the buffelgrass situation to silence the genes that cause the buffelgrass to be more flammable or more sensitive to heat.
 
 <figcaption>The process of gene knockdown/gene silencing</figcaption>
 <img src="https://ars.els-cdn.com/content/image/1-s2.0-S1359644618305245-gr1.jpg" width="500" />
 
 ### 3.3 Testing
 
-That leaves one last challenge for scientists to tackle: how to ensure that the newly engineered buffelgrass does not have negative unexpected consequences. For the editing of the buffelgrass genome to not lead to worse or unpredicted problems without an undo button, there needs to be a way to test the buffelgrass in a simulated ecosystem.
+That leaves one last challenge for scientists to tackle: how to ensure that the newly engineered buffelgrass does not have negative unexpected consequences. There needs to be a method to test the buffelgrass in a simulated ecosystem to prevent the editing of the buffelgrass genome to not lead to worse or unpredicted consequences. The 1970s have already showed that there is no [i]undo[/i] button after buffelgrass is released into the Sonoran desert. There needs to be a way to test the buffelgrass in a simulated ecosystem.
 
 #### 3.3.1 Biosphere 2
 
-Biosphere refers to the earth. Bio = biology, and sphere = three dimensional circle. In essence: the earth. Biosphere 2, on the other hand, is exactly as the name implies. Biosphere 2 was originally used in an experiment where eight researchers were sealed in to see if they could live there on their own without outside help for two weeks. The experiment had design issues and was not completely successful; however, to this day Biosphere 2 is used for research. In the original experiment, a team of scientists worked together to create a mini "biosphere" just outside Tuscon, Arizona. They called it Biosphere 2, and it is over 7,200,000 cubic feet, and around 3,000 species of plants and animals. It is made of glass domes, and sectioned into 5 ecosystems: tropical rainforest, ocean, fog desert, savannah grassland, and mangrove wetlands, plus the experimental LEO.
+Biosphere is a fancy term for the earth. Bio = biology, and sphere = three dimensional circle. Biosphere 2 is exactly as the name implies. Biosphere 2 is an airtight mini-earth in Tuscon, Arizona. Biosphere 2 is 7,200,000 cubic meters. There are five ecosystems under glass domes called biomes: the tropical rainforest, the ocean, the fog desert, the savannah grassland, and the mangrove wetland. It was originally used for a long-term scientific experiment in which eight researchers were sealed inside Biosphere 2 to see if the researchers could live in an isolated earth-like environment without outside help for two years. The experiment had design flaws and was not successful; however, to this day Biosphere 2 is used for research. 
 
-For instance, the Landscape Evolution Observatory (LEO), is a relatively new development that researches how drops of water can travel through and affect different soil types on a massive scale. In fact, when I was twelve and a half, I conducted an experiment on olla irrigation balls and how much moisture different soil types absorb from them in the LEO dome. I worked on this with peers who were 15, 16, 17, and 18 year old highschool students.
-
-A few things can be concluded from the things I pointed out:
+There are several reasons why Biosphere 2 would be a good place to test the effects of altered buffelgrass genes:
 1. Biosphere 2 is constantly open to new and ground breaking research.
 2. Biosphere 2 has a desert ecosystem that could test the changes made in buffelgrass and study any consequences that appear.
 3. Biosphere 2 is airtight and once completely sealed off, will not be able to contaminate the outside environment with the changes.
 4. Biosphere 2 is in Arizona; it is close to the environment the potential gene edits will influence.
 
-This would make Biosphere 2 an ideal solution for testing how well the changes scientists end up making to the buffelgrass genome without harming the environment in the process.
+Biosphere 2 would be an ideal location to test how well the changes scientists make to the buffelgrass genome work without further harming the environment.
 
 <figcaption>Biosphere 2 in Tuscon, Arizona</figcaption>
 <img src="https://www.visitarizona.com/imager/files_idss_com/C375/AccountFiles/x4fszh4nf52dekzkmx68_70e0b117ab6f15d516450a3495868467.jpg" alt="description" width="500" />
@@ -120,19 +122,19 @@ This would make Biosphere 2 an ideal solution for testing how well the changes s
 
 ### Conclusion:
 
-Invasive species are species that are not native to their current environment and will likely cause harm to the environment. Invasive species can be any life form. An example of invasive species in Arizona is Buffelgrass. Buffelgrass is native to Africa, the Middle East, and Asia, but it has become an invasive species in the Sonoran desert. The buffelgrass has resulted in more severe wildfires. These wildfires have burned native plants and caused habitat loss for native animals. CRISPR gene editing to bioengineer a heat resistance gene into the buffelgrass genome. Then, the buffelgrass would not be an invasive species, just a non-native species.
+Invasive species are species that are non-native and will likely cause harm to the surrounding ecosystem. Buffelgrass is an example of an invasive species in the Sonoran desert. Buffelgrass has resulted in more widespread and severe wildfires. These wildfires have burned native plants and caused habitat loss for native animals. CRISPR gene editing could bioengineer a heat resistance gene into the buffelgrass genome, so that the buffelgrass would be a non-native species instead of an invasive species. The changes CRISPR makes could be tested in Biosphere 2 to prevent further harm to the Sonoran desert.
 
 <hr>
 
 ## Works Cited:
 
 Subcommittee of the Invasive Species Advisory Committee. (2006). What are Invasive Species?.*United States Department of*
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Agriculture*. doi:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Agriculture*. doi:     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.invasivespeciesinfo.gov/what-are-invasive-species
 
 Arizona Invasive Species Advisory Council. (2008). Arizona Invasive Species Management Plan. *Arizona Invasive Species*      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Advisory Council*. doi:     
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf](https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf](https://repository.asu.edu/attachments/82177/content/InvasiveSpeciesMgtPlan_2008.pdf)
 
 Mercer, R. G., Zheng, J., Garcia-Hernandez, R., Ruan, L., Gänzle, M. G., & McMullen L. M. (2015). Genetic determinants          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of heat resistance in Escherichia coli. *Front Microbial*. doi:     
