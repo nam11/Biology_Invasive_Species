@@ -14,19 +14,18 @@ Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. 
 Buffelgrass is a light green colored bush with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and spread quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. Buffelgrass clusters densely around other buffelgrass plants. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. For this reason, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
 
 <figcaption><b><i>Buffelgrass stalk with flower</i></b></figcaption>   
-
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg" height="350" />
 
 [National Park Service](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
  
  
-<figcaption>Buffelgrass field with flowers</figcaption>
+<figcaption><b><i>Buffelgrass field with flowers</i></b></figcaption>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYD6WW7U10HL8RFk66Iv5YRy8yOMXIUhLHtg&usqp=CAU" width="500" />
 
 [USDA](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5410107.pdf)
  
  
-<figcaption>Buffelgrass plant</figcaption>
+<figcaption><b><i>Buffelgrass plant</i></b></figcaption>
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_whole.jpg" width="500" />
 
 [National Park Service](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
@@ -40,29 +39,28 @@ The addition of buffelgrass to the Sonoran desert has not caused an increase in 
 
 The plants that live in deserts where buffelgrass is native have evolved to withstand hotter fires and consequently are less severely affected by buffelgrass wildfires. 
 
-<figcaption>A field of buffelgrass ablaze</figcaption>
+<figcaption><b><i>A field of buffelgrass ablaze</i></b></figcaption>
 <img src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg" width="500" />
 
 [USDA](https://www.fs.usda.gov/wps/portal/fsinternet/cs/photogallery/!ut/p/z1/jZBLC4JAFIV_jVvv9RXWboLASnIRPppNaEyjoY6Mpn8_0VoEaZ7duXznwD1AIQJaxm3G4yYTZZz3_kJXV_RM3GsB2a5xpx_PlmYaOArCAdDfltjoOU5wClz8AHRJHidEluanATpfHwIdkLkP_nUcgPJcJONcpEwMmwOV7M4kk-pT9ue0aap6o6CCXdepXAieM_UmCgV_RVJRNxB9k1AVvh_hw8pbl7wARxhJsw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?counter=null.0&actid=&pnavid=130000000000000&pname=Forest%20Service%20-%20Buffel%20Grass&recid=&ttype=photogallery&cid=51284&navtype=BROWSEBYSUBJECT&navid=130120000000000&ss=110312)
-
 
 ### 2.1 Affected Native Species
 
 Buffelgrass primarily affects the growth of shrub-like plants like creosote, saltbush, and busage. The loss of native plants results in habitat loss for native birds, desert tortoises, jaguarundis, ocelots, tarahumara frogs, walker's maniocs, zapata bladderpods, and border ayenias. [2]
 
-<figcaption><b><i>Ocelot</b></i></figcaption>
+<figcaption><b><i>Ocelot</i></b></figcaption>
 <img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Ocelot.jpg" alt="description" width="500" />
 
 [The Nature Conservatory](https://www.nature.org/en-us/about-us/where-we-work/united-states/texas/stories-in-texas/mammals-ocelot/)
 
 
-<figcaption><b><i>Desert Tortoise</b></i></figcaption>
+<figcaption><b><i>Desert Tortoise</i></b></figcaption>
 <img src="https://www.nps.gov/jotr/learn/nature/images/15490143732_0f250215cb_k.jpg" alt="description" width="500" />
 
 [National Park Service](https://www.nps.gov/jotr/learn/nature/tortoise.htm)
 
 
-<figcaption><b><i>Creosote bush</b></i></figcaption>
+<figcaption><b><i>Creosote bush</i></b></figcaption>
 <img src="https://cals.arizona.edu/yavapai/graphics/Larrea_tridentata.jpg" alt="description" width="500" />
 
 [The Backyard Gardener](https://cals.arizona.edu/yavapai/anr/hort/byg/archive/creosote2017.html)
@@ -76,7 +74,7 @@ Buffelgrass grass has become so widespread in the Sonoran desert that for all in
 
 Plants inherit their traits through Deoxyribose Nucleic Acid (DNA). DNA encodes all of the characteristics in an organism into genes. Genes are pairs of nitrogenous bases: adenine (A), guanine (G), thymine (T), and cytosine (C). All of the gene pairs together make up a genome. There is likely a gene in the buffelgrass genome which controls the flammability and fire-resistance of buffelgrass plants. If scientists are able to locate and edit the buffelgrass genome to make it less flammable and more resistant to fire, buffelgrass would only be a non-native species and not an invasive species.
 
-<figcaption><b><i>A strand of DNA under a microscope</b></i></figcaption>
+<figcaption><b><i>A strand of DNA under a microscope</i></b></figcaption>
 <img src="https://images.newscientist.com/wp-content/uploads/2012/11/dn22545-1_300.jpg" alt="description" width="500" />
 
 [New Scientist](https://www.newscientist.com/article/dn22545-dna-imaged-with-electron-microscope-for-the-first-time/)
@@ -90,7 +88,7 @@ CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats. In 
 
 <b>Base editing</b> is a relatively new CRISPR advancement.[4] In base editing, there are two gene editors: the cytosine base editor and the adenine base editor. The cytosine base editor can change a nucleotide pair from C-G to A-T. The adenine base editor can alter a nucleotide pair of A-T to a C-G nucleotide pair.
 
-<figcaption><b><i>The process of base editing</b></i></figcaption>
+<figcaption><b><i>The process of base editing</i></b></figcaption>
 <img src="https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/1027NID_BaseEditing_Final_Drupal700p.png?itok=rGgfBct7" width="500" />
 
 [AAAS](https://www.sciencemag.org/sites/default/files/styles/inline__450w__no_aspect/public/1027NID_BaseEditing_Final_Drupal700p.png?itok=rGgfBct7)
@@ -98,7 +96,7 @@ CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats. In 
  
 Another feature of CRISPR is <b>splicing and joining strands of DNA</b>. This is where CRISPR can break a DNA strand in half or mend two broken strands of DNA back together. Splicing and joining usually occurs in tandem.[5] Scientists can splice a sequence of DNA in half, add additional genes in between, and then repair the broken DNA back together. In the case of altering the buffelgrass DNA to become more fire-resistant, scientists could use splicing and joining to add and/or delete genes that would make the buffelgrass more resistant to fire and temperatures. **Targeting** is a technique used in CRISPR that pinpoints and targets the specific genes and nucleotides. Targeting will aid scientists using CRISPR on buffelgrass in locating the part of the buffelgrass' genome that needs to be edited.
 
-<figcaption><b><i>The process of removing and adding genes to a strand of DNA</b></i></figcaption>
+<figcaption><b><i>The process of removing and adding genes to a strand of DNA</i></b></figcaption>
 <img src="https://cdn.vox-cdn.com/thumbor/NLo_nR6KiOlkf_zWfxwYy1-3t2c=/0x0:1886x1861/1320x0/filters:focal(0x0:1886x1861):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7724917/Artboard_1.jpg" width="500" />
 
 [Vox](https://cdn.vox-cdn.com/thumbor/NLo_nR6KiOlkf_zWfxwYy1-3t2c=/0x0:1886x1861/1320x0/filters:focal(0x0:1886x1861):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/7724917/Artboard_1.jpg)
@@ -122,7 +120,7 @@ There are several reasons why Biosphere 2 would be a good place to test the effe
 
 Biosphere 2 would be an ideal location to test how well the changes scientists make to the buffelgrass genome work without further harming the environment.
 
-<figcaption><b><i>Biosphere 2 in Tucson, Arizona</b></i></figcaption>
+<figcaption><b><i>Biosphere 2 in Tucson, Arizona</i></b></figcaption>
 <img src="https://www.visitarizona.com/imager/files_idss_com/C375/AccountFiles/x4fszh4nf52dekzkmx68_70e0b117ab6f15d516450a3495868467.jpg" alt="description" width="500" />
 
 [Visit Arizona](https://www.visitarizona.com/directory/biosphere-2/)
