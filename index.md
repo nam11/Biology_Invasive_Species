@@ -128,7 +128,7 @@ Biosphere 2 would be an ideal location to test how well the changes scientists m
 
 ### Conclusion:
 
-Invasive species are species that are non-native and will likely cause harm to the surrounding ecosystem. Buffelgrass is an example of an invasive species in the Sonoran desert. Buffelgrass has resulted in more widespread and severe wildfires. These wildfires have burned native plants and caused habitat loss for native animals. CRISPR gene editing could bioengineer a heat resistance gene into the buffelgrass genome, so that the buffelgrass would be a non-native species instead of an invasive species. The changes CRISPR makes could be tested in Biosphere 2 to prevent further harm to the Sonoran desert.
+Invasive species are species that are non-native and will likely cause harm to the surrounding ecosystem. Buffelgrass is an example of an invasive species in the Sonoran desert. Buffelgrass has resulted in more widespread and severe wildfires. These wildfires have reduced native plant populations and caused habitat loss for native animals. CRISPR gene editing could bioengineer a heat resistance gene into the buffelgrass genome, so that the buffelgrass would be a non-native species instead of an invasive species. The changes CRISPR makes could be tested in Biosphere 2 to prevent further harm to the Sonoran desert.
 
 <hr>
 
