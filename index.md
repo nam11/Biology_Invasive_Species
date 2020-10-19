@@ -13,20 +13,19 @@ Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. 
 
 Buffelgrass is a light green colored bush with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and spread quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. Buffelgrass clusters densely around other buffelgrass plants. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. For this reason, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
 
-<b><i>Buffelgrass stalk with flower</b></i>
-
+<figcaption>Buffelgrass stalk with flower</figcaption>
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg" height="350" />
 
 [National Park Service](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
  
  
-<figcaption> <b> <i> Buffelgrass field with flowers </b> </i> </figcaption>
+<figcaption>Buffelgrass field with flowers</figcaption>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYD6WW7U10HL8RFk66Iv5YRy8yOMXIUhLHtg&usqp=CAU" width="500" />
 
 [USDA](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5410107.pdf)
  
  
-<figcaption> <b> <i> Buffelgrass plant </b> </i> </figcaption>
+<figcaption>Buffelgrass plant</figcaption>
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_whole.jpg" width="500" />
 
 [National Park Service](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
@@ -40,7 +39,7 @@ The addition of buffelgrass to the Sonoran desert has not caused an increase in 
 
 The plants that live in deserts where buffelgrass is native have evolved to withstand hotter fires and consequently are less severely affected by buffelgrass wildfires. 
 
-<figcaption><b><i>A field of buffelgrass ablaze</b></i></figcaption>
+<figcaption>A field of buffelgrass ablaze</figcaption>
 <img src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg" width="500" />
 
 [USDA](https://www.fs.usda.gov/wps/portal/fsinternet/cs/photogallery/!ut/p/z1/jZBLC4JAFIV_jVvv9RXWboLASnIRPppNaEyjoY6Mpn8_0VoEaZ7duXznwD1AIQJaxm3G4yYTZZz3_kJXV_RM3GsB2a5xpx_PlmYaOArCAdDfltjoOU5wClz8AHRJHidEluanATpfHwIdkLkP_nUcgPJcJONcpEwMmwOV7M4kk-pT9ue0aap6o6CCXdepXAieM_UmCgV_RVJRNxB9k1AVvh_hw8pbl7wARxhJsw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?counter=null.0&actid=&pnavid=130000000000000&pname=Forest%20Service%20-%20Buffel%20Grass&recid=&ttype=photogallery&cid=51284&navtype=BROWSEBYSUBJECT&navid=130120000000000&ss=110312)
