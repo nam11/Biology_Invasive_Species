@@ -4,7 +4,7 @@
 
 ### Introduction
  
-Native species are plants and animals that evolved as a part of their local ecosystem. Non-native species are plants or animals that humans introduce to a foriegn environment and thrive there. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of invasive species in the Sonoran desert is buffelgrass.
+Native species are plants and animals that evolved naturally as a part of their local ecosystem. Non-native species are plants or animals that humans have introduced accidendtally or intentially, to a foriegn environment and thrive there. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of invasive species in the Sonoran desert is buffelgrass.
 
 ## 1. Buffelgrass
 ### 1.1 Buffelgrass: Background
