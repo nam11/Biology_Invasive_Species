@@ -13,7 +13,8 @@ Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. 
 
 Buffelgrass is a light green colored bush with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and spread quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. Buffelgrass clusters densely around other buffelgrass plants. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. For this reason, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
 
-<figcaption> <b> <i> Buffelgrass stalk with flower </b> </i> </figcaption>
+<b><i>Buffelgrass stalk with flower</b></i>
+
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg" height="350" />
 
 [National Park Service](https://www.nps.gov/sagu/learn/nature/buffelgrass.htm)
@@ -43,7 +44,8 @@ The plants that live in deserts where buffelgrass is native have evolved to with
 <img src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg" width="500" />
 
 [USDA](https://www.fs.usda.gov/wps/portal/fsinternet/cs/photogallery/!ut/p/z1/jZBLC4JAFIV_jVvv9RXWboLASnIRPppNaEyjoY6Mpn8_0VoEaZ7duXznwD1AIQJaxm3G4yYTZZz3_kJXV_RM3GsB2a5xpx_PlmYaOArCAdDfltjoOU5wClz8AHRJHidEluanATpfHwIdkLkP_nUcgPJcJONcpEwMmwOV7M4kk-pT9ue0aap6o6CCXdepXAieM_UmCgV_RVJRNxB9k1AVvh_hw8pbl7wARxhJsw!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/?counter=null.0&actid=&pnavid=130000000000000&pname=Forest%20Service%20-%20Buffel%20Grass&recid=&ttype=photogallery&cid=51284&navtype=BROWSEBYSUBJECT&navid=130120000000000&ss=110312)
- 
+
+
 ### 2.1 Affected Native Species
 
 Buffelgrass primarily affects the growth of shrub-like plants like creosote, saltbush, and busage. The loss of native plants results in habitat loss for native birds, desert tortoises, jaguarundis, ocelots, tarahumara frogs, walker's maniocs, zapata bladderpods, and border ayenias. [2]
