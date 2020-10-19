@@ -4,14 +4,14 @@
 
 ### Introduction
  
-Native species are plants and animals that evolved naturally as a part of their local ecosystem. Non-native species are plants or animals that humans have introduced accidendtally or intentially, to an environment outsdide the species natural ecosystem, and are able to thrive there. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of invasive species in the Sonoran desert is buffelgrass.
+Native species are plants and animals that evolved naturally as a part of their local ecosystem. Non-native species are plants or animals that humans have introduced accidentally or intentionally, to an environment outsdide the species' natural ecosystem, and are able to thrive there. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of an invasive species in the Sonoran desert is buffelgrass.
 
 ## 1. Buffelgrass
 ### 1.1 Buffelgrass: Background
 
-Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. Soil Conservation Service intentionally introduced buffelgrass to the Southwest deserts in the 1970s and 1980s. Buffelgrass was originally brought to the United States with the hope that it would serve as another food source for cows and to manage soil erosion. Scientists chose buffelgrass because of its drought tolerance and high seed production. The buffelgrass escaped from the enclosures where it was intentionally planted and the buffelgrass spread across the Sonaran desert. 
+Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. Soil Conservation Service intentionally introduced buffelgrass to the Southwest deserts in the 1970s and 1980s. Buffelgrass was originally brought to the United States with the hope that it would serve as another food source for cows and to manage soil erosion. Scientists chose buffelgrass because of its drought tolerance and high seed production. The buffelgrass escaped from the enclosures where it was intentionally planted and the buffelgrass spread across the Sonoran desert. 
 
-Buffelgrass is a light green colored bush with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and spread quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. Buffelgrass clusters densely around other buffelgrass plants. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. For this reason, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
+Buffelgrass is a light green clumping grass with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and scatter quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. Because it is, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
 
 <figcaption><b><i>Buffelgrass stalk with flower</i></b></figcaption>   
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg" height="350" />
@@ -33,7 +33,7 @@ Buffelgrass is a light green colored bush with deep purple flowers on the ends o
 
 ## 2. The Problem
 
-The problem with buffelgrass is its high flammability. Buffelgrass acts as a super-fuel for wildfires. The buffelgrass wildfires cause a decline native plant populations which allows the buffelgrass to populate and reseed quicker than the native plants. This causes a decrease in the diversity of native plants and an increase in buffelgrass. Additionally, the increase in buffelgrass will continue to spread hotter fires farther. This also results in habitat loss for native animals.
+The problem with buffelgrass is its high flammability, making it act like a super-fuel for wildfires. The buffelgrass wildfires have reduced native plant populations since buffelgrass reseeds quicker than the native plants. This causes a decrease in the diversity of native plants and habitat loss for native animals while increasing the buffelgrass population.
 
 The addition of buffelgrass to the Sonoran desert has not caused an increase in the number of wildfires, but buffelgrass worsens the fires that are common to the Sonoran desert. The additional "fuel" has caused fires to burn hotter and spread farther than the wildfires before buffelgrass was introduced to the Sonoran desert. The bigger and hotter fires burn not only the buffelgrass, but also the plants native to the Sonoran desert. The buffelgrass-fueled wildfires are specifically risky for plants that grow slowly, like cacti, or are easy to ignite, like bushes.
 
@@ -46,7 +46,7 @@ The plants that live in deserts where buffelgrass is native have evolved to with
 
 ### 2.1 Affected Native Species
 
-Buffelgrass primarily affects the growth of shrub-like plants like creosote, saltbush, and busage. The loss of native plants results in habitat loss for native birds, desert tortoises, jaguarundis, ocelots, tarahumara frogs, walker's maniocs, zapata bladderpods, and border ayenias. [2]
+Buffelgrass primarily affects the growth of shrub-like plants like creosote, saltbush, walker's maniocs, zapata bladderpods, and bursage. The loss of native plants results in habitat loss for native birds, desert tortoises, jaguarundis, ocelots, and tarahumara frogs. [2]
 
 <figcaption><b><i>Ocelot</i></b></figcaption>
 <img src="https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/Ocelot.jpg" alt="description" width="500" />
@@ -68,7 +68,7 @@ Buffelgrass primarily affects the growth of shrub-like plants like creosote, sal
 
 ## 3. Solution?
 
-Buffelgrass grass has become so widespread in the Sonoran desert that for all intents and purposes it is now a part of the ecosystem. Aside from the bigger and hotter fires, the buffelgrass is not harmful to the environment. Solutions to the buffelgrass problem should focus on the increased fire hazard and not the buffelgrass itself. There is no need to remove all of the buffelgrass if a genetic alteration of buffelgrasss could reduce the buffelgrass flammability. Additionally, once the re-engineered, fire-resistant buffelgrass is re-released into the Sonoran desert, the fire-resistant buffelgrass is more likely to survive and outcompete the more flammable buffelgrass.
+Buffelgrass grass has become so widespread in the Sonoran desert that for all intents and purposes it is now a part of the ecosystem. Aside from the bigger and hotter fires, the buffelgrass is not harmful to the environment. Solutions to the buffelgrass problem should focus on the increased fire hazard and not the buffelgrass itself. There is no need to remove all of the buffelgrass if a genetic alteration of buffelgrass could reduce the buffelgrass flammability. Additionally, once the re-engineered, fire-resistant buffelgrass is re-released into the Sonoran desert, the fire-resistant buffelgrass is more likely to survive and outcompete the more flammable buffelgrass.
 
 ### 3.1 Genetic Editing
 
@@ -106,11 +106,11 @@ Finally, CRISPR can **silence** genes. Gene silencing is suppressing a specific 
 
 ### 3.3 Testing
 
-That leaves one last challenge for scientists to tackle: how to ensure that the newly engineered buffelgrass does not have negative unexpected consequences. There needs to be a method to test the modified buffelgrass in a simulated ecosystem to ensure that the modification does lead to worse or unpredicted consequences. The 1970s have already shown that there is no <i>undo</i> button after buffelgrass was released into the Sonoran desert. There needs to be a way to test the altered buffelgrass in a simulated ecosystem before reintroducing it to the Sonoran desert.
+That leaves one last challenge for scientists to tackle: how to ensure that the newly engineered buffelgrass does not have negative unexpected consequences. There needs to be a method to test the modified buffelgrass in a simulated ecosystem to ensure that the modification does lead to worse or unpredicted consequences. The 1970s have already shown that there is no <i>undo</i> button after buffelgrass was released into the Sonoran desert. There needs to be a way to test the altered buffelgrass in a simulated ecosystem before introducing it to the Sonoran desert.
 
 #### 3.3.1 Biosphere 2
 
-Biosphere is a fancy term for the earth. Bio = biology, and sphere = three dimensional circle. Biosphere 2 is similar to the earth as its name implies. Biosphere 2 is an airtight mini-earth in Oracle, Arizona. Biosphere 2's 7,200,000 cubic meters contain five ecosystems under glass domes called biomes: the tropical rainforest, the ocean, the fog desert, the savannah grassland, and the mangrove wetland. The managers of Biosphere 2 are open to using their resources to research ecosystems.
+Biosphere is a fancy term for the earth. Bio = biology, and sphere = three dimensional circle. Biosphere 2 is similar to the earth as its name implies. Biosphere 2 is an airtight mini-earth in Oracle, Arizona. Biosphere 2's 7,200,000 cubic meter mini-earth contains five ecosystems under glass domes called biomes: the tropical rainforest, the ocean, the fog desert, the savannah grassland, and the mangrove wetland. The managers of Biosphere 2 are open to using their resources to research ecosystems.
 
 There are several reasons why Biosphere 2 would be a good place to test the effects of altered buffelgrass genes:
 1. Biosphere 2 is constantly open to new and groundbreaking research.
