@@ -4,14 +4,14 @@
 
 ### Introduction
  
-Native species are plants and animals that evolved naturally as a part of their local ecosystem. Non-native species are plants or animals that humans have introduced accidentally or intentionally, to an environment outsdide the species' natural ecosystem, and are able to thrive there. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of an invasive species in the Sonoran desert is buffelgrass.
+Native species are plants and animals that evolved naturally as a part of their local ecosystem. Non-native species are plants or animals that humans have introduced, accidentally or intentionally, to an environment outside the species' natural ecosystem where the non-native species are able to survive or thrive. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of an invasive species in the Sonoran desert is buffelgrass.
 
 ## 1. Buffelgrass
 ### 1.1 Buffelgrass: Background
 
 Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. Soil Conservation Service intentionally introduced buffelgrass to the Southwest deserts in the 1970s and 1980s. Buffelgrass was originally brought to the United States with the hope that it would serve as another food source for cows and to manage soil erosion. Scientists chose buffelgrass because of its drought tolerance and high seed production. The buffelgrass escaped from the enclosures where it was intentionally planted and the buffelgrass spread across the Sonoran desert. 
 
-Buffelgrass is a light green clumping grass with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and scatter quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. Because it is, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
+Buffelgrass is a light green clumping grass with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and scatter quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. Because it is highly flammable, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
 
 <figcaption><b><i>Buffelgrass stalk with flower</i></b></figcaption>   
 <img src="https://www.nps.gov/orpi/learn/nature/images/body_buffel_seedhead.jpg" height="350" />
@@ -37,7 +37,7 @@ The problem with buffelgrass is its high flammability, making it act like a supe
 
 The addition of buffelgrass to the Sonoran desert has not caused an increase in the number of wildfires, but buffelgrass worsens the fires that are common to the Sonoran desert. The additional "fuel" has caused fires to burn hotter and spread farther than the wildfires before buffelgrass was introduced to the Sonoran desert. The bigger and hotter fires burn not only the buffelgrass, but also the plants native to the Sonoran desert. The buffelgrass-fueled wildfires are specifically risky for plants that grow slowly, like cacti, or are easy to ignite, like bushes.
 
-The plants that live in deserts where buffelgrass is native have evolved to withstand hotter fires and consequently are less severely affected by buffelgrass wildfires. 
+The plants that live in the deserts that buffelgrass is native to in Africa, Asia, and the Middle East have evolved to withstand hotter fires and consequently are less severely affected by buffelgrass wildfires. 
 
 <figcaption><b><i>A field of buffelgrass ablaze</i></b></figcaption>
 <img src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg" width="500" />
@@ -110,10 +110,10 @@ That leaves one last challenge for scientists to tackle: how to ensure that the 
 
 #### 3.3.1 Biosphere 2
 
-Biosphere is a fancy term for the earth. Bio = biology, and sphere = three dimensional circle. Biosphere 2 is similar to the earth as its name implies. Biosphere 2 is an airtight mini-earth in Oracle, Arizona. Biosphere 2's 7,200,000 cubic meter mini-earth contains five ecosystems under glass domes called biomes: the tropical rainforest, the ocean, the fog desert, the savannah grassland, and the mangrove wetland. The managers of Biosphere 2 are open to using their resources to research ecosystems.
+Biosphere is a fancy term for the earth. Bio = biology, and sphere = three dimensional circle. Biosphere 2 is similar to the earth as its name implies. Biosphere 2 is an airtight mini-earth in Oracle, Arizona. Biosphere 2's 7,200,000 cubic meter mini-earth contains five ecosystems under glass domes called biomes: the tropical rainforest, the ocean, the fog desert, the savannah grassland, and the mangrove wetland. The managers of Biosphere 2 are receptive to using their resources to research scientific theories that require a large-scale ecosystem to test the hypothesis in.
 
 There are several reasons why Biosphere 2 would be a good place to test the effects of altered buffelgrass genes:
-1. Biosphere 2 is constantly open to new and groundbreaking research.
+1. Biosphere 2 is open to new and groundbreaking research.
 2. Biosphere 2 has a desert ecosystem that could test the changes made in buffelgrass and see if there are any harmful consequences with the altered plants.
 3. Biosphere 2 is airtight and once completely sealed off, will not be able to contaminate the outside environment with the changes.
 4. Biosphere 2 is in Arizona; it is close to the environment the potential gene edits will influence.
@@ -128,7 +128,7 @@ Biosphere 2 would be an ideal location to test how well the changes scientists m
 
 ### Conclusion:
 
-Invasive species are species that are non-native and will likely cause harm to the surrounding ecosystem. Buffelgrass is an example of an invasive species in the Sonoran desert. Buffelgrass has resulted in more widespread and severe wildfires. These wildfires have reduced native plant populations and caused habitat loss for native animals. CRISPR gene editing could bioengineer a heat resistance gene into the buffelgrass genome, so that the buffelgrass would be a non-native species instead of an invasive species. The changes CRISPR makes could be tested in Biosphere 2 to prevent further harm to the Sonoran desert.
+Invasive species are species that are non-native and will likely cause harm to the surrounding ecosystem. Buffelgrass is an example of an invasive species in the Sonoran desert. Buffelgrass has resulted in more widespread and severe wildfires. These wildfires have reduced native plant populations and caused habitat loss for native animals. CRISPR gene editing could bioengineer a heat resistance gene into the buffelgrass genome. The changes CRISPR makes could be tested in Biosphere 2 to detect and prevent unintended harm before introducing the genetically altered buffelgrass to the Sonoran desert. If scientists are able to sucessfully edit the buffelgrass genome, the buffelgrass would become a non-native species to the Sonoran desert instead of an invasive species. 
 
 <hr>
 
