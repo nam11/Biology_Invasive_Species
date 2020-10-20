@@ -4,12 +4,12 @@
 
 ### Introduction
  
-Native species are plants and animals that evolved naturally as a part of their local ecosystem. Non-native species are plants or animals that humans have introduced, accidentally or intentionally, to an environment outside the species' natural ecosystem where the non-native species are able to survive or thrive. Invasive species are non-native species whose introduction will likely cause harm to the environment. An example of an invasive species in the Sonoran desert is buffelgrass.
+Native species are plants and animals that evolved naturally as a part of their local ecosystem. Non-native species are plants or animals that humans have introduced, accidentally or intentionally, to an environment outside the species' natural ecosystem where the non-native species are able to survive or thrive. Invasive species are non-native species whose introduction to a different ecosystem causes harm to that environment. An example of an invasive species in the Sonoran desert is buffelgrass.
 
 ## 1. Buffelgrass
 ### 1.1 Buffelgrass: Background
 
-Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. Soil Conservation Service intentionally introduced buffelgrass to the Southwest deserts in the 1970s and 1980s. Buffelgrass was originally brought to the United States with the hope that it would serve as another food source for cows and to manage soil erosion. Scientists chose buffelgrass because of its drought tolerance and high seed production. The buffelgrass escaped from the enclosures where it was intentionally planted and the buffelgrass spread across the Sonoran desert. 
+Buffelgrass is native to deserts in Africa, the Middle East, and Asia. The U.S. Soil Conservation Service intentionally introduced buffelgrass to the Southwest deserts in the 1970s and 1980s. Buffelgrass was originally brought to the United States with the hope that it would serve as another food source for cows and to help manage soil erosion. Scientists chose buffelgrass because of its drought tolerance and high seed production. The buffelgrass escaped from the enclosures where it was intentionally planted and the buffelgrass spread across the Sonoran desert. 
 
 Buffelgrass is a light green clumping grass with deep purple flowers on the ends of long, skinny stalks. The fluffy seeds inside of the flowers are carried by the wind and scatter quickly. Buffelgrass ranges from a couple inches in height to three or four feet tall. The leaves of buffelgrass are longer and wider than typical native desert plants. Buffelgrass leaves are also quite dry and flammable. Because it is highly flammable, the National Park Service has categorized buffelgrass as <i>one of the greatest threats to the Sonoran Desert</i>. [1]
 
@@ -33,11 +33,11 @@ Buffelgrass is a light green clumping grass with deep purple flowers on the ends
 
 ## 2. The Problem
 
-The problem with buffelgrass is its high flammability, making it act like a super-fuel for wildfires. The buffelgrass wildfires have reduced native plant populations since buffelgrass reseeds quicker than the native plants. This causes a decrease in the diversity of native plants and habitat loss for native animals while increasing the buffelgrass population.
+The problem with buffelgrass is its high flammability, which makes it a super-fuel for wildfires. The buffelgrass wildfires have reduced native plant populations since buffelgrass reseeds quicker than the native plants. This causes the buffelgrass population to increase, while decreasing the diversity of native plants and increasing the habitat loss for native animals.
 
 The addition of buffelgrass to the Sonoran desert has not caused an increase in the number of wildfires, but buffelgrass worsens the fires that are common to the Sonoran desert. The additional "fuel" has caused fires to burn hotter and spread farther than the wildfires before buffelgrass was introduced to the Sonoran desert. The bigger and hotter fires burn not only the buffelgrass, but also the plants native to the Sonoran desert. The buffelgrass-fueled wildfires are specifically risky for plants that grow slowly, like cacti, or are easy to ignite, like bushes.
 
-The plants that live in the deserts that buffelgrass is native to in Africa, Asia, and the Middle East have evolved to withstand hotter fires and consequently are less severely affected by buffelgrass wildfires. 
+The plants that live in the deserts that buffelgrass are native to in Africa, Asia, and the Middle East have evolved to withstand hotter fires and consequently are less severely affected by buffelgrass wildfires. 
 
 <figcaption><b><i>A field of buffelgrass ablaze</i></b></figcaption>
 <img src="https://www.fs.usda.gov/Internet/FSE_MEDIA/fsbdev3_019698.jpg" width="500" />
@@ -68,11 +68,11 @@ Buffelgrass primarily affects the growth of shrub-like plants like creosote, sal
 
 ## 3. Solution?
 
-Buffelgrass grass has become so widespread in the Sonoran desert that for all intents and purposes it is now a part of the ecosystem. Aside from the bigger and hotter fires, the buffelgrass is not harmful to the environment. Solutions to the buffelgrass problem should focus on the increased fire hazard and not the buffelgrass itself. There is no need to remove all of the buffelgrass if a genetic alteration of buffelgrass could reduce the buffelgrass flammability. Additionally, once the re-engineered, fire-resistant buffelgrass is re-released into the Sonoran desert, the fire-resistant buffelgrass is more likely to survive and outcompete the more flammable buffelgrass.
+Buffelgrass has become so widespread in the Sonoran desert that for all intents and purposes the buffelgrass is a part of the Sonoran desert ecosystem now. Aside from the bigger and hotter fires, the buffelgrass is not harmful to the environment. Solutions to the buffelgrass problem should focus on the increased fire hazard and not the buffelgrass itself. There is no need to remove all of the buffelgrass if a genetic alteration of buffelgrass could reduce the buffelgrass flammability. Additionally, once the re-engineered, fire-resistant buffelgrass is re-released into the Sonoran desert, the fire-resistant buffelgrass is more likely to survive, outcompet, and replace the more flammable buffelgrass.
 
 ### 3.1 Genetic Editing
 
-Plants inherit their traits through Deoxyribose Nucleic Acid (DNA). DNA encodes all of the characteristics in an organism into genes. Genes are pairs of nitrogenous bases: adenine (A), guanine (G), thymine (T), and cytosine (C). All of the gene pairs together make up a genome. There is likely a gene in the buffelgrass genome which controls the flammability and fire-resistance of buffelgrass plants. If scientists are able to locate and edit the buffelgrass genome to make it less flammable and more resistant to fire, buffelgrass would only be a non-native species and not an invasive species.
+Plants inherit their traits through Deoxyribose Nucleic Acid (DNA). DNA encodes all of the characteristics in an organism into genes. Genes are pairs of nitrogenous bases: adenine (A), guanine (G), thymine (T), and cytosine (C). All of the gene pairs together make up a genome. There is likely a gene in the buffelgrass genome which controls the flammability and fire-resistance of buffelgrass plants. If scientists are able to locate and edit the buffelgrass genome to make it less flammable and more resistant to fire, buffelgrass would only be a non-native species and not an invasive species in the Sonoran desert.
 
 <figcaption><b><i>A strand of DNA under a microscope</i></b></figcaption>
 <img src="https://images.newscientist.com/wp-content/uploads/2012/11/dn22545-1_300.jpg" alt="description" width="500" />
@@ -80,7 +80,7 @@ Plants inherit their traits through Deoxyribose Nucleic Acid (DNA). DNA encodes 
 [New Scientist](https://www.newscientist.com/article/dn22545-dna-imaged-with-electron-microscope-for-the-first-time/)
 
 
-E. Coli has multiple heat resistant strains. E. Coli was researched in a study attempting to isolate the genes that determine whether the E. Coli strain was heat resistant or heat sensitive. The researchers were able to determine and identify the LHR genes that were key in the heat resistance. Furthermore, early research suggests that fire resistance genes could be located in a variety of plants, if further research is conducted. [3]
+E. Coli has multiple heat resistant strains. E. Coli was researched in a study attempting to isolate the genes that determine whether the E. Coli strain was heat resistant or heat sensitive. The researchers were able to identify the LHR genes that were key in the heat resistance. Furthermore, early research suggests that fire resistance genes could be located in a variety of plants, if further research is conducted. [3]
 
 ### 3.2 CRISPR: Base Editing, Splicing, Joining, Targeting, & Silencing
 
@@ -106,11 +106,11 @@ Finally, CRISPR can **silence** genes. Gene silencing is suppressing a specific 
 
 ### 3.3 Testing
 
-That leaves one last challenge for scientists to tackle: how to ensure that the newly engineered buffelgrass does not have negative unexpected consequences. There needs to be a method to test the modified buffelgrass in a simulated ecosystem to ensure that the modification does lead to worse or unpredicted consequences. The 1970s have already shown that there is no <i>undo</i> button after buffelgrass was released into the Sonoran desert. There needs to be a way to test the altered buffelgrass in a simulated ecosystem before introducing it to the Sonoran desert.
+That leaves one last challenge for scientists to tackle: how to ensure that the newly engineered buffelgrass does not have negative or unexpected consequences. There must be a method to test the modified buffelgrass in a simulated ecosystem to ensure that the modification does lead to worse or unpredicted consequences. The 1970s have already shown that there is no <i>undo</i> button after buffelgrass was released into the Sonoran desert. There needs to be a way to test the altered buffelgrass in a simulated ecosystem before introducing it to the Sonoran desert.
 
 #### 3.3.1 Biosphere 2
 
-Biosphere is a fancy term for the earth. Bio = biology, and sphere = three dimensional circle. Biosphere 2 is similar to the earth as its name implies. Biosphere 2 is an airtight mini-earth in Oracle, Arizona. Biosphere 2's 7,200,000 cubic meter mini-earth contains five ecosystems under glass domes called biomes: the tropical rainforest, the ocean, the fog desert, the savannah grassland, and the mangrove wetland. The managers of Biosphere 2 are receptive to using their resources to research scientific theories that require a large-scale ecosystem to test the hypothesis in.
+Biosphere is a fancy term for the earth. Bio = biology and sphere = three dimensional circle. Biosphere 2 is similar to the earth as its name implies. Biosphere 2 is an airtight mini-earth in Oracle, Arizona. Biosphere 2's 7,200,000 cubic meter mini-earth contains five ecosystems under glass domes called biomes: the tropical rainforest, the ocean, the fog desert, the savannah grassland, and the mangrove wetland. The managers of Biosphere 2 are receptive to using their resources to research scientific theories that require a large-scale ecosystem to test the hypothesis.
 
 There are several reasons why Biosphere 2 would be a good place to test the effects of altered buffelgrass genes:
 1. Biosphere 2 is open to new and groundbreaking research.
@@ -118,7 +118,7 @@ There are several reasons why Biosphere 2 would be a good place to test the effe
 3. Biosphere 2 is airtight and once completely sealed off, will not be able to contaminate the outside environment with the changes.
 4. Biosphere 2 is in Arizona; it is close to the environment the potential gene edits will influence.
 
-Biosphere 2 would be an ideal location to test how well the changes scientists make to the buffelgrass genome work without further harming the environment.
+Biosphere 2 would be an ideal location to test how well the changes scientists make to the buffelgrass genome work without unintentionally harming the environment.
 
 <figcaption><b><i>Biosphere 2 in Tucson, Arizona</i></b></figcaption>
 <img src="https://www.visitarizona.com/imager/files_idss_com/C375/AccountFiles/x4fszh4nf52dekzkmx68_70e0b117ab6f15d516450a3495868467.jpg" alt="description" width="500" />
@@ -128,7 +128,7 @@ Biosphere 2 would be an ideal location to test how well the changes scientists m
 
 ### Conclusion:
 
-Invasive species are species that are non-native and will likely cause harm to the surrounding ecosystem. Buffelgrass is an example of an invasive species in the Sonoran desert. Buffelgrass has resulted in more widespread and severe wildfires. These wildfires have reduced native plant populations and caused habitat loss for native animals. CRISPR gene editing could bioengineer a heat resistance gene into the buffelgrass genome. The changes CRISPR makes could be tested in Biosphere 2 to detect and prevent unintended harm before introducing the genetically altered buffelgrass to the Sonoran desert. If scientists are able to sucessfully edit the buffelgrass genome, the buffelgrass would become a non-native species to the Sonoran desert instead of an invasive species. 
+Invasive species are species that are non-native and will likely cause harm to the surrounding ecosystem. Buffelgrass is an example of an invasive species in the Sonoran desert. Buffelgrass has resulted in more widespread and severe wildfires. These wildfires have reduced native plant populations and caused habitat loss for native animals. CRISPR gene editing could bioengineer a heat resistance gene into the buffelgrass genome. The changes CRISPR makes could be tested in Biosphere 2 to detect and prevent unintended harm before introducing the genetically altered buffelgrass to the Sonoran desert. If scientists are able to successfully edit the buffelgrass genome, the buffelgrass would become a non-native species to the Sonoran desert instead of an invasive species. 
 
 <hr>
 
